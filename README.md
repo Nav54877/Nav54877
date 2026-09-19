@@ -23,22 +23,11 @@
 
 ## 📟 ASCII corner
 
-```text
-             /\
-            /  \
-           / || \
-          /  ||  \
-         |   ||   |
-         |   ||   |
-         |  n a v |
-         |        |
-          \      /
-           \    /
-            \  /
-             \/
-```
+<p align="center">
+  <img src="assets/ascii-skull.gif" width="620" alt="ASCII skull with pulsing eyes — anonymity is a design choice">
+</p>
 
-*defense is offense, inverted*
+<p align="center"><i>>>&nbsp; anonymity is a design choice</i></p>
 
 ## 🚀 Featured projects
 
