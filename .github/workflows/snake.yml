@@ -18,7 +18,7 @@ jobs:
 
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Nav54877
+          github_user_name: navairgap
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark

@@ -19,21 +19,21 @@
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/Nav54877/SentinelWiFi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nav54877&repo=SentinelWiFi&theme=tokyonight&hide_border=true" alt="SentinelWiFi">
+  <a href="https://github.com/navairgap/SentinelWiFi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navairgap&repo=SentinelWiFi&theme=tokyonight&hide_border=true" alt="SentinelWiFi">
   </a>
-  <a href="https://github.com/Nav54877/banter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nav54877&repo=banter&theme=tokyonight&hide_border=true" alt="banter">
+  <a href="https://github.com/navairgap/banter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navairgap&repo=banter&theme=tokyonight&hide_border=true" alt="banter">
   </a>
 </p>
 
-**[SentinelWiFi](https://github.com/Nav54877/SentinelWiFi)** — a passive,
+**[SentinelWiFi](https://github.com/navairgap/SentinelWiFi)** — a passive,
 defensive auditor for your own WiFi and LAN. Evil-twin detection, rogue
 DHCP checks, device inventory, exposed-service scanning, A–F grading with
 plain-language fixes. CI greps every push to guarantee it stays
 offense-free.
 
-**[banter](https://github.com/Nav54877/banter)** — real-time public chat
+**[banter](https://github.com/navairgap/banter)** — real-time public chat
 rooms with Socket.IO. No accounts, no database, XSS-proof by
 construction.
 
@@ -67,12 +67,12 @@ construction.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nav54877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nav54877's stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav54877&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=navairgap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="navairgap's stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navairgap&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nav54877&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=navairgap&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 ## 🐍 Contribution graph
@@ -87,7 +87,7 @@ construction.
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/Nav54877"><img src="https://img.shields.io/badge/GitHub-Nav54877-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/navairgap"><img src="https://img.shields.io/badge/GitHub-navairgap-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <!-- Add your own: LinkedIn / Twitter(X) / Discord — just duplicate the line above -->
 </p>
 
