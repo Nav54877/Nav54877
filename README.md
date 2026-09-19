@@ -25,11 +25,11 @@
 
 <p align="center">
   <a href="https://github.com/navairgap/SentinelWiFi">
-    <img src="assets/project-sentinel.jpg" width="420" alt="SentinelWiFi — network constellation with a flagged rogue device">
+    <img src="assets/card-sentinel.png" width="460" alt="SentinelWiFi — network constellation with a flagged rogue device">
   </a>
   &nbsp;
   <a href="https://github.com/navairgap/banter">
-    <img src="assets/project-banter.jpg" width="420" alt="banter — neon chat bubbles">
+    <img src="assets/card-banter.png" width="460" alt="banter — neon chat bubbles">
   </a>
 </p>
 
