@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="250" font-family="Menlo,DejaVu Sans Mono,monospace">
+<rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+<rect width="100%" height="34" rx="12" fill="#161b22"/>
+<rect y="22" width="100%" height="12" fill="#161b22"/>
+<circle cx="20" cy="17" r="5.5" fill="#ff5f57"/><circle cx="40" cy="17" r="5.5" fill="#febc2e"/><circle cx="60" cy="17" r="5.5" fill="#28c840"/>
+<text x="642" y="21" fill="#6e7681" font-size="11" text-anchor="end">navairgap@github ~ zsh</text>
+<tspan x="22.0" y="48" fill="#5ad19a" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="0.70s"/>$</tspan>
+<tspan x="29.8" y="48" fill="#5ad19a" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="0.73s"/> </tspan>
+<tspan x="37.6" y="48" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="0.77s"/>w</tspan>
+<tspan x="45.4" y="48" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="0.79s"/>h</tspan>
+<tspan x="53.2" y="48" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="0.81s"/>o</tspan>
+<tspan x="61.0" y="48" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="0.84s"/>a</tspan>
+<tspan x="68.8" y="48" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="0.86s"/>m</tspan>
+<tspan x="76.6" y="48" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="0.88s"/>i</tspan>
+<tspan x="22.0" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.35s"/>n</tspan>
+<tspan x="29.8" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.37s"/>a</tspan>
+<tspan x="37.6" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.40s"/>v</tspan>
+<tspan x="45.4" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.42s"/>a</tspan>
+<tspan x="53.2" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.44s"/>i</tspan>
+<tspan x="61.0" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.46s"/>r</tspan>
+<tspan x="68.8" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.48s"/>g</tspan>
+<tspan x="76.6" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.51s"/>a</tspan>
+<tspan x="84.4" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.53s"/>p</tspan>
+<tspan x="92.2" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.55s"/> </tspan>
+<tspan x="100.0" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.57s"/>—</tspan>
+<tspan x="107.8" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.59s"/> </tspan>
+<tspan x="115.6" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.62s"/>c</tspan>
+<tspan x="123.39999999999999" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.64s"/>y</tspan>
+<tspan x="131.2" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.66s"/>b</tspan>
+<tspan x="139.0" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.68s"/>e</tspan>
+<tspan x="146.8" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.70s"/>r</tspan>
+<tspan x="154.6" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.73s"/>s</tspan>
+<tspan x="162.4" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.75s"/>e</tspan>
+<tspan x="170.2" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.77s"/>c</tspan>
+<tspan x="178.0" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.79s"/>u</tspan>
+<tspan x="185.79999999999998" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.81s"/>r</tspan>
+<tspan x="193.6" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.84s"/>i</tspan>
+<tspan x="201.4" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.86s"/>t</tspan>
+<tspan x="209.2" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.88s"/>y</tspan>
+<tspan x="217.0" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.90s"/> </tspan>
+<tspan x="224.79999999999998" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.92s"/>·</tspan>
+<tspan x="232.6" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.95s"/> </tspan>
+<tspan x="240.4" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.97s"/>b</tspan>
+<tspan x="248.2" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="1.99s"/>a</tspan>
+<tspan x="256.0" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.01s"/>c</tspan>
+<tspan x="263.79999999999995" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.03s"/>k</tspan>
+<tspan x="271.6" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.06s"/>e</tspan>
+<tspan x="279.4" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.08s"/>n</tspan>
+<tspan x="287.2" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.10s"/>d</tspan>
+<tspan x="295.0" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.12s"/> </tspan>
+<tspan x="302.8" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.14s"/>d</tspan>
+<tspan x="310.59999999999997" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.17s"/>e</tspan>
+<tspan x="318.4" y="74" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.19s"/>v</tspan>
+<tspan x="22.0" y="100" fill="#5ad19a" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.66s"/>$</tspan>
+<tspan x="29.8" y="100" fill="#5ad19a" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.69s"/> </tspan>
+<tspan x="37.6" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.73s"/>c</tspan>
+<tspan x="45.4" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.75s"/>a</tspan>
+<tspan x="53.2" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.77s"/>t</tspan>
+<tspan x="61.0" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.80s"/> </tspan>
+<tspan x="68.8" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.82s"/>~</tspan>
+<tspan x="76.6" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.84s"/>/</tspan>
+<tspan x="84.4" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.86s"/>s</tspan>
+<tspan x="92.2" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.88s"/>t</tspan>
+<tspan x="100.0" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.91s"/>a</tspan>
+<tspan x="107.8" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.93s"/>c</tspan>
+<tspan x="115.6" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.95s"/>k</tspan>
+<tspan x="123.39999999999999" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.97s"/>.</tspan>
+<tspan x="131.2" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="2.99s"/>t</tspan>
+<tspan x="139.0" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.02s"/>x</tspan>
+<tspan x="146.8" y="100" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.04s"/>t</tspan>
+<tspan x="22.0" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.51s"/>p</tspan>
+<tspan x="29.8" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.53s"/>y</tspan>
+<tspan x="37.6" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.55s"/>t</tspan>
+<tspan x="45.4" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.58s"/>h</tspan>
+<tspan x="53.2" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.60s"/>o</tspan>
+<tspan x="61.0" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.62s"/>n</tspan>
+<tspan x="68.8" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.64s"/> </tspan>
+<tspan x="76.6" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.66s"/>·</tspan>
+<tspan x="84.4" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.69s"/> </tspan>
+<tspan x="92.2" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.71s"/>j</tspan>
+<tspan x="100.0" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.73s"/>a</tspan>
+<tspan x="107.8" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.75s"/>v</tspan>
+<tspan x="115.6" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.77s"/>a</tspan>
+<tspan x="123.39999999999999" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.80s"/> </tspan>
+<tspan x="131.2" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.82s"/>·</tspan>
+<tspan x="139.0" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.84s"/> </tspan>
+<tspan x="146.8" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.86s"/>c</tspan>
+<tspan x="154.6" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.88s"/> </tspan>
+<tspan x="162.4" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.91s"/>·</tspan>
+<tspan x="170.2" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.93s"/> </tspan>
+<tspan x="178.0" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.95s"/>c</tspan>
+<tspan x="185.79999999999998" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.97s"/>+</tspan>
+<tspan x="193.6" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="3.99s"/>+</tspan>
+<tspan x="201.4" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.02s"/> </tspan>
+<tspan x="209.2" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.04s"/>·</tspan>
+<tspan x="217.0" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.06s"/> </tspan>
+<tspan x="224.79999999999998" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.08s"/>r</tspan>
+<tspan x="232.6" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.10s"/>u</tspan>
+<tspan x="240.4" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.13s"/>s</tspan>
+<tspan x="248.2" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.15s"/>t</tspan>
+<tspan x="256.0" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.17s"/> </tspan>
+<tspan x="263.79999999999995" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.19s"/>·</tspan>
+<tspan x="271.6" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.21s"/> </tspan>
+<tspan x="279.4" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.24s"/>j</tspan>
+<tspan x="287.2" y="126" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.26s"/>s</tspan>
+<tspan x="22.0" y="152" fill="#5ad19a" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.73s"/>$</tspan>
+<tspan x="29.8" y="152" fill="#5ad19a" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.76s"/> </tspan>
+<tspan x="37.6" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.80s"/>.</tspan>
+<tspan x="45.4" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.82s"/>/</tspan>
+<tspan x="53.2" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.84s"/>c</tspan>
+<tspan x="61.0" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.87s"/>u</tspan>
+<tspan x="68.8" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.89s"/>r</tspan>
+<tspan x="76.6" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.91s"/>r</tspan>
+<tspan x="84.4" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.93s"/>e</tspan>
+<tspan x="92.2" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.95s"/>n</tspan>
+<tspan x="100.0" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="4.98s"/>t</tspan>
+<tspan x="107.8" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.00s"/>l</tspan>
+<tspan x="115.6" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.02s"/>y</tspan>
+<tspan x="123.39999999999999" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.04s"/>.</tspan>
+<tspan x="131.2" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.06s"/>s</tspan>
+<tspan x="139.0" y="152" fill="#8ab4ff" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.09s"/>h</tspan>
+<tspan x="22.0" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.56s"/>e</tspan>
+<tspan x="29.8" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.58s"/>x</tspan>
+<tspan x="37.6" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.60s"/>p</tspan>
+<tspan x="45.4" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.62s"/>l</tspan>
+<tspan x="53.2" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.65s"/>o</tspan>
+<tspan x="61.0" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.67s"/>r</tspan>
+<tspan x="68.8" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.69s"/>i</tspan>
+<tspan x="76.6" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.71s"/>n</tspan>
+<tspan x="84.4" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.73s"/>g</tspan>
+<tspan x="92.2" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.76s"/> </tspan>
+<tspan x="100.0" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.78s"/>w</tspan>
+<tspan x="107.8" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.80s"/>e</tspan>
+<tspan x="115.6" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.82s"/>b</tspan>
+<tspan x="123.39999999999999" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.84s"/>3</tspan>
+<tspan x="131.2" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.87s"/> </tspan>
+<tspan x="139.0" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.89s"/>·</tspan>
+<tspan x="146.8" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.91s"/> </tspan>
+<tspan x="154.6" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.93s"/>b</tspan>
+<tspan x="162.4" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.95s"/>u</tspan>
+<tspan x="170.2" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="5.98s"/>i</tspan>
+<tspan x="178.0" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.00s"/>l</tspan>
+<tspan x="185.79999999999998" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.02s"/>d</tspan>
+<tspan x="193.6" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.04s"/>i</tspan>
+<tspan x="201.4" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.06s"/>n</tspan>
+<tspan x="209.2" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.09s"/>g</tspan>
+<tspan x="217.0" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.11s"/> </tspan>
+<tspan x="224.79999999999998" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.13s"/>d</tspan>
+<tspan x="232.6" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.15s"/>e</tspan>
+<tspan x="240.4" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.17s"/>f</tspan>
+<tspan x="248.2" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.20s"/>e</tspan>
+<tspan x="256.0" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.22s"/>n</tspan>
+<tspan x="263.79999999999995" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.24s"/>s</tspan>
+<tspan x="271.6" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.26s"/>i</tspan>
+<tspan x="279.4" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.28s"/>v</tspan>
+<tspan x="287.2" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.31s"/>e</tspan>
+<tspan x="295.0" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.33s"/> </tspan>
+<tspan x="302.8" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.35s"/>t</tspan>
+<tspan x="310.59999999999997" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.37s"/>o</tspan>
+<tspan x="318.4" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.39s"/>o</tspan>
+<tspan x="326.2" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.42s"/>l</tspan>
+<tspan x="334.0" y="178" fill="#c9d1d9" visibility="hidden"><set attributeName="visibility" from="hidden" to="visible" begin="6.44s"/>s</tspan>
+<rect x="22" y="191" width="9" height="16" fill="#5ad19a"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+</svg>
