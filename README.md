@@ -21,26 +21,48 @@
 <img src="assets/waves.svg" width="820">
 </div>
 
+## 📟 ASCII corner
+
+```text
+             /\
+            /  \
+           / || \
+          /  ||  \
+         |   ||   |
+         |   ||   |
+         |  n a v |
+         |        |
+          \      /
+           \    /
+            \  /
+             \/
+```
+
+*defense is offense, inverted*
+
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/navairgap/SentinelWiFi">
-    <img src="assets/card-sentinel.png" width="460" alt="SentinelWiFi — network constellation with a flagged rogue device">
-  </a>
+  <img src="assets/ascii-sentinel.gif" width="480" alt="SentinelWiFi — ASCII radar sweeping the airspace, rogue devices blinking red">
   &nbsp;
-  <a href="https://github.com/navairgap/banter">
-    <img src="assets/card-banter.png" width="460" alt="banter — neon chat bubbles">
-  </a>
+  <img src="assets/ascii-banter.gif" width="480" alt="banter — ASCII letter bubbles rising into a typing speech bubble">
 </p>
 
-**[SentinelWiFi](https://github.com/navairgap/SentinelWiFi)** — a passive,
-defensive auditor for your own WiFi and LAN. Evil-twin detection, rogue
-DHCP checks, device inventory, exposed-service scanning, and an A–F grade
-with plain-language fixes. CI greps every push to guarantee it stays
-offense-free.
+### 🛡️ &nbsp;[SentinelWiFi](https://github.com/navairgap/SentinelWiFi) — *passive network security auditor*
 
-**[banter](https://github.com/navairgap/banter)** — real-time public chat
-rooms with Socket.IO. No accounts, no database, XSS-proof by construction.
+**Your WiFi, graded A–F, with plain-language fixes.**
+
+🔴 &nbsp;Evil-twin & rogue-DHCP detection &nbsp;·&nbsp; 🟠 &nbsp;WPS / PMF / deauth-resistance checks &nbsp;·&nbsp; 🟡 &nbsp;LAN device inventory with newcomer alarms &nbsp;·&nbsp; 🟢 &nbsp;Exposed-service scanning &nbsp;·&nbsp; 🔵 &nbsp;CI-proven offense-free — `grep`ped on every push
+
+`python` `scapy` `linux` `pytest`
+
+### 💬 &nbsp;[banter](https://github.com/navairgap/banter) — *real-time public chat rooms*
+
+**No accounts. No database. XSS-proof by construction.**
+
+Live rooms & typing indicators &nbsp;·&nbsp; per-room online lists &nbsp;·&nbsp; duplicate-name handling &nbsp;·&nbsp; two-client integration tests &nbsp;·&nbsp; ships in one command
+
+`node.js` `socket.io` `websockets` `express`
 
 <div align="center">
 <img src="assets/waves.svg" width="820">
