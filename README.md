@@ -6,6 +6,8 @@
 
 <br>
 
+<a href="https://navairgap.github.io"><b>🌐 navairgap.github.io — portfolio site →</b></a>
+
 <img src="assets/terminal.svg" width="660" alt="whoami">
 
 </div>
@@ -82,6 +84,7 @@ Live rooms & typing indicators &nbsp;·&nbsp; per-room online lists &nbsp;·&nbs
 </div>
 
 <p align="center">
+  <a href="https://navairgap.github.io"><img src="https://img.shields.io/badge/portfolio-navairgap.github.io-blueviolet?style=flat-square" alt="portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=navairgap&color=6c8cff&style=flat-square" alt="profile views">
   &nbsp;
   <a href="https://github.com/navairgap?tab=followers"><img src="https://img.shields.io/github/followers/navairgap?style=flat-square&color=9a6cff&label=Followers" alt="followers"></a>
