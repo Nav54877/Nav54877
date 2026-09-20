@@ -1,77 +1,74 @@
 <div align="center">
 
-<img src="assets/hero.gif" width="880" alt="">
+<img src="assets/hero.gif" width="880">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6C8CFF&center=true&vCenter=true&width=680&lines=Cybersecurity+Enthusiast;Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust;Exploring+Web3;Building+defensive+tools+that+respect+your+privacy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=CDC4BA&center=true&vCenter=true&width=620&lines=defense+is+offense%2C+inverted;cybersecurity+%C3%97+backend;python+%C2%B7+c+%C2%B7+c%2B%2B+%C2%B7+rust;bone+on+black+%E3%83%BB+shot+on+black)](https://git.io/typing-svg)
 
-<br>
+**[navairgap.github.io](https://navairgap.github.io) — portfolio →**
 
-<a href="https://navairgap.github.io"><b>🌐 navairgap.github.io — portfolio site →</b></a>
-
-<img src="assets/terminal.svg" width="660" alt="whoami">
+<img src="assets/terminal.svg" width="620">
 
 </div>
 
-<br>
+```text
+・ 源 SOURCE ・ 力 POWER ・ 美 BEAUTY ・ 道 WAY ・ 信 SIGNAL ・ 防 DEFENSE ・
+```
 
-- 🔐 **Cybersecurity** — defensive tools only: passive auditing, rogue-device detection, honest reporting
-- 🛠️ **Backend developer** — real-time systems, APIs, and the glue between them
-- 🌱 **Exploring Web3** — smart contracts and what decentralization is actually good for
-- 🐧 Daily driver: **Linux**. If it doesn't run in a terminal, it probably should
+- 🛡 **defense first** — I build passive, local-first security tools; CI greps my flagship repo on every push to prove it stays offense-free
+- 🖥 **backend developer** — real-time systems, APIs, and the glue between them
+- 🧠 **learning in public** — networking → python → security → C → operating systems, documented as I go
+- 🐧 daily driver: **linux**. bone on black, no shadows, grain 5.5%
 
 <div align="center">
 <img src="assets/waves.svg" width="820">
 </div>
 
-## 📟 ASCII corner
+## 📟 ・ 源 — the skull
 
 <p align="center">
-  <img src="assets/ascii-skull.gif" width="620" alt="ASCII skull with pulsing eyes — anonymity is a design choice">
+  <img src="assets/ascii-skull.gif" width="600" alt="ASCII skull with pulsing red eyes — anonymity is a design choice">
 </p>
 
-<p align="center"><i>>>&nbsp; anonymity is a design choice</i></p>
+<p align="center"><i>&gt;&gt; anonymity is a design choice ・ 信</i></p>
 
-## 🚀 Featured projects
+<div align="center">
+<img src="assets/waves.svg" width="820">
+</div>
+
+## 🚀 ・ 美 — projects
 
 <p align="center">
-  <img src="assets/ascii-sentinel.gif" width="480" alt="SentinelWiFi — ASCII radar sweeping the airspace, rogue devices blinking red">
+  <img src="assets/ascii-sentinel.gif" width="470" alt="SentinelWiFi — ASCII radar sweeping, rogue devices blinking red">
   &nbsp;
-  <img src="assets/ascii-banter.gif" width="480" alt="banter — ASCII letter bubbles rising into a typing speech bubble">
+  <img src="assets/ascii-banter.gif" width="470" alt="banter — ASCII letter bubbles rising into a typing speech bubble">
 </p>
 
-### 🛡️ &nbsp;[SentinelWiFi](https://github.com/navairgap/SentinelWiFi) — *passive network security auditor*
+**[SentinelWiFi](https://github.com/navairgap/SentinelWiFi)** — passive network security auditor. Evil-twin & rogue-DHCP detection, device inventory with newcomer alarms, exposed-service scanning, WPS/PMF analysis — graded A–F with plain-language fixes. 36 tests. CI-enforced. 100% passive.
 
-**Your WiFi, graded A–F, with plain-language fixes.**
+**[banter](https://github.com/navairgap/banter)** — real-time public chat rooms. No accounts, no database. XSS-proof by construction, two-client integration tests.
 
-🔴 &nbsp;Evil-twin & rogue-DHCP detection &nbsp;·&nbsp; 🟠 &nbsp;WPS / PMF / deauth-resistance checks &nbsp;·&nbsp; 🟡 &nbsp;LAN device inventory with newcomer alarms &nbsp;·&nbsp; 🟢 &nbsp;Exposed-service scanning &nbsp;·&nbsp; 🔵 &nbsp;CI-proven offense-free — `grep`ped on every push
-
-`python` `scapy` `linux` `pytest`
-
-### 💬 &nbsp;[banter](https://github.com/navairgap/banter) — *real-time public chat rooms*
-
-**No accounts. No database. XSS-proof by construction.**
-
-Live rooms & typing indicators &nbsp;·&nbsp; per-room online lists &nbsp;·&nbsp; duplicate-name handling &nbsp;·&nbsp; two-client integration tests &nbsp;·&nbsp; ships in one command
-
-`node.js` `socket.io` `websockets` `express`
+**[airgap-os](https://navairgap.github.io)** — a hobby kernel in progress: multiboot handoff, VGA driver, interrupts, memory, syscalls — the deepest way to learn how computers work.
 
 <div align="center">
 <img src="assets/waves.svg" width="820">
 </div>
 
-## 🛠️ Tech stack
+## 🛠 ・ 力 — arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,rust,js,html,css,nodejs,express,linux,git,bash,solidity,docker,githubactions&theme=dark" alt="skills">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,rust,js,html,css,nodejs,express,linux,git,bash,solidity,docker,githubactions&theme=light" alt="skills">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navairgap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navairgap&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages">
-  <img src="https://streak-stats.demolab.com?user=navairgap&theme=tokyonight&hide_border=true" height="165" alt="streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=navairgap&show_icons=true&bg_color=000000&title_color=CDC4BA&text_color=9A917F&icon_color=FF5C5C&border_color=3A352F" height="165" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navairgap&layout=compact&bg_color=000000&title_color=CDC4BA&text_color=9A917F&border_color=3A352F" height="165" alt="top languages">
 </p>
 
-## 🐍 Contribution graph
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=navairgap&background=000000&border=3A352F&stroke=CDC4BA&ring=CDC4BA&fire=FF5C5C&currStreakNum=CDC4BA&currStreakLabel=9A917F&sideNums=CDC4BA&sideLabels=9A917F&dates=555049" alt="streak">
+</p>
+
+## 🐍 contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
@@ -84,14 +81,13 @@ Live rooms & typing indicators &nbsp;·&nbsp; per-room online lists &nbsp;·&nbs
 </div>
 
 <p align="center">
-  <a href="https://navairgap.github.io"><img src="https://img.shields.io/badge/portfolio-navairgap.github.io-blueviolet?style=flat-square" alt="portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=navairgap&color=6c8cff&style=flat-square" alt="profile views">
+  <a href="https://navairgap.github.io"><img src="https://img.shields.io/badge/portfolio-navairgap.github.io-CDC4BA?style=flat-square&labelColor=000000" alt="portfolio"></a>
   &nbsp;
-  <a href="https://github.com/navairgap?tab=followers"><img src="https://img.shields.io/github/followers/navairgap?style=flat-square&color=9a6cff&label=Followers" alt="followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=navairgap&color=CDC4BA&style=flat-square" alt="profile views">
 </p>
 
 ---
 
 <div align="center">
-  <i>"The best security tool is the one that's honest about what it doesn't do."</i>
+  <i>"the best security tool is the one that's honest about what it doesn't do."</i>
 </div>
