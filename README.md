@@ -2,7 +2,7 @@
 
 <img src="assets/hero.gif" width="880">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=CDC4BA&center=true&vCenter=true&width=620&lines=defense+is+offense%2C+inverted;cybersecurity+%C3%97+backend;python+%C2%B7+c+%C2%B7+c%2B%2B+%C2%B7+rust;bone+on+black+%E3%83%BB+shot+on+black)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=CDC4BA&center=true&vCenter=true&width=620&lines=defense+is+offense%2C+inverted;cybersecurity+%C3%97+backend;python+%C2%B7+c+%C2%B7+c%2B%2B+%C2%B7+rust;bone+on+black+%E3%83%BB+shot+on+black)
 
 **[navairgap.github.io](https://navairgap.github.io) — portfolio →**
 
@@ -47,7 +47,7 @@
 
 **[banter](https://github.com/navairgap/banter)** — real-time public chat rooms. No accounts, no database. XSS-proof by construction, two-client integration tests.
 
-**[airgap-os](https://navairgap.github.io)** — a hobby kernel in progress: multiboot handoff, VGA driver, interrupts, memory, syscalls — the deepest way to learn how computers work.
+**airgap-os** *(repo coming soon)* — a hobby kernel in progress: multiboot handoff, VGA driver, interrupts, memory, syscalls — the deepest way to learn how computers work.
 
 <div align="center">
 <img src="assets/waves.svg" width="820">
@@ -60,8 +60,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navairgap&show_icons=true&bg_color=000000&title_color=CDC4BA&text_color=9A917F&icon_color=FF5C5C&border_color=3A352F" height="165" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navairgap&layout=compact&bg_color=000000&title_color=CDC4BA&text_color=9A917F&border_color=3A352F" height="165" alt="top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=navairgap&show_icons=true&bg_color=000000&title_color=CDC4BA&text_color=9A917F&icon_color=FF5C5C&border_color=3A352F&cache_seconds=21600" height="165" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navairgap&layout=compact&bg_color=000000&title_color=CDC4BA&text_color=9A917F&border_color=3A352F&cache_seconds=21600" height="165" alt="top languages">
 </p>
 
 <p align="center">
