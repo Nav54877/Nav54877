@@ -5,6 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=CDC4BA&center=true&vCenter=true&width=620&lines=defense+is+offense%2C+inverted;cybersecurity+%C3%97+backend;python+%C2%B7+c+%C2%B7+c%2B%2B+%C2%B7+rust;bone+on+black+%E3%83%BB+shot+on+black)
 
 **[navairgap.github.io](https://navairgap.github.io) — portfolio →**
+**[3d-portfolio](https://3d-portfolio-nav-8975.vercel.app) — step inside the room →**
 
 <img src="assets/terminal.svg" width="620">
 
